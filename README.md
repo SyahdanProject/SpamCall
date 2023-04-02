@@ -1,5 +1,5 @@
 # Spam Call Unlimited COID
-![image](https://w7.pngwing.com/pngs/63/747/png-transparent-telephone-logo-mobile-phones-telephone-number-chabad-malvern-contact-miscellaneous-text-telephone-call.png)
+![image](https://avatars.githubusercontent.com/u/129648245?s=400&u=fab3529fa7b05f472a0ddd630dfdbfa1a1654bce&v=4)
 Spam Call Unlimited Terbaru menggunakan bahasa pemrograman python
 
 ## Cara Install
