@@ -7,7 +7,7 @@ Spam Call Unlimited Terbaru menggunakan bahasa pemrograman python
 $pkg install python
 $pip install requests
 $git clone https://github.com/SyahdanProject/spamtelpon
-$cd SpamCall
+$cd spamtelpon
 $python spam.py
 ```
 
